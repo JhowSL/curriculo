@@ -49,11 +49,7 @@ add_paragraph(
 doc.add_heading("WORK EXPERIENCE", level=2)
 
 # Experience 1
-add_heading(
-    "Systems Development Intern / Vivo (Telefônica Brasil)",
-    3,
-    12,
-    bold=True)
+add_heading("Systems Development Intern / Vivo (Telefônica Brasil)", 3, 12, bold=True)
 add_paragraph("April 2022 – April 2024", 10)
 add_paragraph(
     "- Developed ShellScript automation solutions, improving operational efficiency.\n"
